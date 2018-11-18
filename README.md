@@ -1,5 +1,5 @@
 # deploy_nginx
-Step by step: Using Ansible to deploy Nginx virtual host into Vagrant Box.
+<p>Step by step: Using Ansible to deploy Nginx virtual host into Vagrant Box </p>.
 Step 1: Tạo folder để chứa Vagrant Box file
 Step 2: Clone 2 Box files.
   git clone
